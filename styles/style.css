@@ -1,0 +1,19 @@
+body {
+    font-size: 14pt;
+    background-color: #eff;
+}
+table {
+    margin-bottom: 10px;
+}
+th {
+    background-color: #eee;
+}
+td {
+    background-color: #fff;
+}
+input {
+    font-size: 14pt;
+}
+h1 {
+    color: #58a;
+}

@@ -10,7 +10,7 @@
 <body link="#0000ff" vlink="#ff00ff" alink="#ff0000">
 <center>
 <?php
-    // mysqlに接続する
+    // mysqlに接続す
     $link = mysqli_connect('localhost:8889','root','root','testDB');
     if (!$link) {
         die('接続失敗です。'.mysqli_error($link));
